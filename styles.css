@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+ body {
+        width: 1100px;
+        background-color: #cbd6cb;
+      }
+      .imageContainer {
+        width: 100%; /* Make the image fill its container */
+        height: auto; /* Maintain the aspect ratio */
+      }
+      h3 {
+        text-align: center;
+      }
